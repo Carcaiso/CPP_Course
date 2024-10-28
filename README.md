@@ -1,2 +1,2 @@
 # CPP_Course
-Series of exercises for the study of c++
+Exercises for the course: https://www.udemy.com/course/beginning-c-plus-plus-programming/?couponCode=24T6MT102824
